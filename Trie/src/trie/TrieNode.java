@@ -77,7 +77,7 @@ class Indexes {
  * - the first child node
  * - the sibling node
  * 
- * @author Sesh Venugopal
+ * 
  *
  */
 public class TrieNode {
